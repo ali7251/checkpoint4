@@ -90,4 +90,4 @@ Feel free to help out as I may have other work/life commitments. See [CONTRIBUTI
 - [x] Front-end validation (HTML)
 
 ## License
-**MERN CRUD** is available under the **MIT** license. See the [LICENSE](LICENSE) file for more info.
+**MERN CRUD** is available under the **MIT** license. See the [LICENSE](LICENSE) file for more info.# checkpointazure3
